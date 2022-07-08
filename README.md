@@ -57,7 +57,7 @@ python -m pip install --upgrade pip==20.2.3
 git clone https://github.com/SudKul/cd0157-Server-Deployment-and-Containerization.git
 cd cd0157-Server-Deployment-and-Containerization/
 ```
-1. These are the files relevant for the current project:
+1. These are the files relevant dir for the current  project:
 ```bash
 .
 ├── Dockerfile 
